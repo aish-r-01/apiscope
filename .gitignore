@@ -1,11 +1,5 @@
-# Python virtual environment
 venv/
-
-# Python cache
 __pycache__/
-
-# Environment variables / secrets
 .env
-
 .DS_Store
 dumb.rdb
